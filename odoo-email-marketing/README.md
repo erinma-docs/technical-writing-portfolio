@@ -18,8 +18,6 @@ Start by adding:
 
 Odoo also allows you to filter recipients when you only want the email to reach a specific group.
 
-![Create a new mailing in Odoo](odoo-new-mailing.png)
-
 ## 2. Choose and Edit the Email Layout
 
 Open the **Mail Body** tab.
@@ -28,7 +26,7 @@ You can choose one of the available layouts or start with a blank template.
 
 After choosing a layout, edit the content based on your campaign. You can change the text, images, buttons, and other content blocks by using the email editor.
 
-![Edit the email body in Odoo](odoo-email-editor.png)
+![Edit the email in Odoo](email-editor.png)
 
 Before moving on, check that the message is clear and that the main links or buttons are correct.
 
@@ -45,7 +43,7 @@ Here, you can review details such as:
 
 The Reply To setting can be used to decide where replies should go, depending on the type of recipients selected.
 
-![Review email settings in Odoo](odoo-email-settings.png)
+![Review email settings in Odoo](email-settings.png)
 
 ## 4. Send a Test Email
 
@@ -58,7 +56,7 @@ You can send the test email to one or more test contacts.
 3. Send the test email.
 4. Check the message before continuing.
 
-![Send a test mailing in Odoo](odoo-test-mailing.png)
+![Send a test mailing in Odoo](test-mailing.png)
 
 Testing helps you check for problems before the email goes to the full audience.
 
@@ -76,7 +74,7 @@ Click **Schedule** if you want to choose a specific date and time.
 
 The scheduled mailing will also be placed in the queue until it is ready to send.
 
-![Schedule a mailing in Odoo](odoo-schedule-mailing.png)
+![Schedule a mailing in Odoo](schedule-mailing.png)
 
 ## 6. Check the Mailing Status
 
@@ -90,7 +88,7 @@ A mailing may appear as:
 
 This makes it easier to see which campaigns are still being edited and which ones are already waiting to be sent.
 
-![Odoo mailing dashboard](odoo-mailing-dashboard.png)
+![Check mailing status in Odoo](mailing-dashboard.png)
 
 ## Optional: Manage Email Campaigns
 
